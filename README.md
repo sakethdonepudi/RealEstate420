@@ -5,7 +5,7 @@ Welcome to **Real Estate Marketpalce**! This groovy little tool will help you ke
 
 
 
-Visit the Real Estate Marketpalce here: [Real Estate Marketpalce](https://sakethtodo.netlify.app/)
+Visit the Real Estate Marketpalce here: [Real Estate Marketpalce](https://real-estate420.vercel.app/)
 
 
 ## 📸 Screenshots
