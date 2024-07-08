@@ -44,10 +44,6 @@ If you want to run the app locally, follow these steps:
 ## 🤝 Contributing
  Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
 ## 💬 Contact
 
 Got questions? Reach out to Saketh at [sakethdonepud08@gmail.com].
