@@ -20,11 +20,11 @@ If you want to run the app locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sakethdonepudi/MyTodo.git
+    git clone https://github.com/sakethdonepudi/RealEstate420.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd saketh-todo-app
+    cd RealEstate420
     ```
 3. Install the dependencies:
     ```bash
